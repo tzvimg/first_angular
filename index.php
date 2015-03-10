@@ -9,6 +9,7 @@
 <div ng-app="">
    <p>Enter your Name: <input type="text" ng-model="name"></p>
    <p>Hello <span ng-bind="name"></span>!</p>
+   <b>Tzvi</b>
 </div>
     </div>
   </body>
